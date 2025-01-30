@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cros": "^1.0.1",
+    "dayjs": "^1.11.12",
+    "express": "^4.19.2",
+    "http": "^0.0.1-security",
+    "mysql2": "^3.11.0",
+    "nanoid": "^3.3.7",
+    "sequelize": "^6.37.3",
+    "socket.io": "^4.7.5",
+    "underscore": "^1.13.7"
+  }
+}
